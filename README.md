@@ -1,8 +1,8 @@
 <h1 align="center">Olá, sou Rafael S. Sales 👋</h1>
 
 <p align="center">
-  <strong>Formado em Redes de Computadores</strong> - UEMA | Técnico em Desenvolvimento de Sistemas - IFPI<br/>
-  Apaixonado por  de redes, infraestrutura, segurança da informação  e programação .
+  <strong>Formado em Redes de Computadores</strong> pela UEMA | Técnico em Desenvolvimento de Sistemas<br/>
+  Apaixonado por automação de redes, infraestrutura e desenvolvimento de software.
 </p>
 
 <p align="center">
@@ -45,6 +45,19 @@
   <img src="https://img.shields.io/badge/Automação de Redes-00CC44?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/TCP%2FIP-FF4500?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 </p>
+
+### 🏅 Certificações
+
+| Certificação | Emissor |
+|---|---|
+| 🔐 Introduction to the Threat Landscape 3.0 | Fortinet |
+| 🌐 Introduction to IoT | Cisco |
+| 🛡️ Network Security | Cisco |
+| 🔀 CCNA: Switching, Routing, and Wireless Essentials | Cisco |
+| 🕵️ CyberOps Associate | Cisco |
+| 📡 CCNA: Introduction to Networks | Cisco |
+
+> 🔗 Veja todas as badges em: [Meu perfil Credly](https://www.credly.com/users/rafael-da-silva-sales/badges/credly)
 
 ### Ferramentas
 
