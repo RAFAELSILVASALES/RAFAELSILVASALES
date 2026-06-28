@@ -1,8 +1,8 @@
 <h1 align="center">Olá, sou Rafael S. Sales 👋</h1>
 
 <p align="center">
-  <strong>Técnico em Desenvolvimento de Sistemas</strong> | Estudante de <strong>Redes de Computadores</strong> na UEMA<br/>
-  Apaixonado por automação de redes, infraestrutura e desenvolvimento de software.
+  <strong>Formado em Redes de Computadores</strong> UEMA | Técnico em Desenvolvimento de Sistemas | IFPI<br/>
+  Apaixonado por  de redes, infraestrutura, segurança da informação  e programação .
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 | Curso | Instituição | Status |
 |---|---|---|
-| 🎓 Redes de Computadores | UEMA – Universidade Estadual do Maranhão | Em andamento |
+| 🎓 Redes de Computadores | UEMA – Universidade Estadual do Maranhão | Concluído |
 | 📜 Técnico em Desenvolvimento de Sistemas | Curso Técnico | Concluído |
 
 ---
