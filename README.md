@@ -1,12 +1,12 @@
 <h1 align="center">Olá, sou Rafael S. Sales 👋</h1>
 
 <p align="center">
-  <strong>Formado em Redes de Computadores</strong> pela UEMA | Técnico em Desenvolvimento de Sistemas<br/>
-  Apaixonado por automação de redes, infraestrutura e desenvolvimento de software.
+  <strong>Formado em Redes de Computadores</strong> - UEMA | Técnico em Desenvolvimento de Sistemas - IFPI<br/>
+  Apaixonado por  de redes, infraestrutura, segurança da informação  e programação .
 </p>
 
 <p align="center">
-  <a href="https://rafael-sales-web-site-c2015.web.app/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-0A0A0A?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/RAFAELSILVASALES" target="_blank">
