@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou Rafael S. Sales 👋</h1>
 
 <p align="center">
-  <strong>Formado em Redes de Computadores</strong> UEMA | Técnico em Desenvolvimento de Sistemas | IFPI<br/>
+  <strong>Formado em Redes de Computadores</strong> - UEMA | Técnico em Desenvolvimento de Sistemas - IFPI<br/>
   Apaixonado por  de redes, infraestrutura, segurança da informação  e programação .
 </p>
 
